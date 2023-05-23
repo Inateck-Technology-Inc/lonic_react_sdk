@@ -1,0 +1,7 @@
+{
+  "name": "scanner-sdk-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
