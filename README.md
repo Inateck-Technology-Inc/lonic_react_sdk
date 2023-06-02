@@ -1,4 +1,4 @@
-BARCODE SCANNER SDK FOR LONIC REACT  
+# BARCODE SCANNER SDK FOR LONIC REACT  
 The SDK provides developers with a set of tools to set the scanner for IOS,Android platforms.
 
 ## Documentation
